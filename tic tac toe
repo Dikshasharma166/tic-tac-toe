@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8" />
+<title>untitled</title>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<script src="./script/script.js"></script>
+		<h1>TIC-TAC-TOE</h1>
+<div class="display" id="game">
+	<div class="row1">
+	<div id="one"><button></button></div>
+	<div id="two"><button></button></div>
+	<div id="three"><button></button></div>
+	</div>
+	
+	<div class="row2">
+	<div id="four"><button></button></div>
+	<div id="five"><button></button></div>
+	<div id="six"><button></button></div>
+	</div>	
+	
+	<div class="row3">
+	<div id="seven"><button></button></div>
+	<div id="eight"><button></button></div>
+	<div id="nine"><button></button></div>
+	</div>
+</div>
+
+
+</body>
+
+</html>
+
